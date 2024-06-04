@@ -1,0 +1,55 @@
+body{
+    background-image: url(Dark-moon-crescent-luna-space-iPad-wallpaper-1024x768.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .fixed-image{
+        position: fixed;
+    }
+img{
+    float: left;
+    padding-top: 0px;
+    padding-right: 0px;
+    background-image: cover;
+    border: 10px rgb(119, 98, 4) solid ;
+    border-radius: 50%;
+    border-style: groove;
+    }
+    h{
+        color: yellow;
+    }
+h1{
+    color: rgb(235, 187, 31);
+    padding-left: 400px;
+    padding-top: 30px;
+}
+h2{
+    color: white;
+    padding-left: 400px;
+}
+
+
+
+.c{color: white;
+    padding-top: 100px;
+    padding-left: 400px;}
+.d{
+    color: rgb(167, 233, 170);
+    padding-top: 40px;
+    padding-right: 10px;
+    float: right;
+    
+}
+p{
+    color: rgb(241, 241, 226);
+}
+.b{
+    color: rgb(236, 236, 226);
+    padding-top: 100px;
+    padding-left: 400px;
+
+}
+p2{
+    color: rgb(250, 250, 250);
+    background-size: 50px;
+}
